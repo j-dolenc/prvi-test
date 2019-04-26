@@ -2,7 +2,7 @@
 
 
 int main(){
-    printf("zivjo");
+    printf("zivjo Tilen");
 
     return 0;
 }
